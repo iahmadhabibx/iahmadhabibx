@@ -9,7 +9,7 @@
 - NodeJS, ExpressJS
 - NestJS
 - MySQL, PostgreSQL, MongoDB
-- AWS hosting
+- AWS
 
 
 ## You can:
