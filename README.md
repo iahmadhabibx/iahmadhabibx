@@ -14,7 +14,7 @@
 
 ## You can:
 - 💬 Ask me about **HTML, CSS, and JavaScript, or MEAN & MERN stack**
-- 📫 How to reach me **Send a message through linkedin.com/in/iahmadhabibx**
+- 📫 How to reach me **Send a message through <a href="linkedin.com/in/iahmadhabibx">LinkedIn</a>**
 - ⚡  PS I love to write code even in my free time or play games
 
 <h3 align="left">Connect with me:</h3>
