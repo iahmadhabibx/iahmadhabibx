@@ -1,6 +1,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iahmadhabibx&label=Profile%20views&color=0e75b6&style=flat" alt="codes-elle" /> </p>
 
-### I have expertise in Javascript including:
+### Hi, I am Ahmad, Co Founder of <a href="https://kheltech.com" target="_blank">Khel</a> and a Javascript enthusiast.
+
+### Being a tech person, I have expertise in the including:
 - HTML5
 - CSS (SASS), Bootstrap, Tailwind
 - Vanilla Javascript
