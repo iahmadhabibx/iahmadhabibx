@@ -1,69 +1,80 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iahmadhabibx&label=Profile%20views&color=0e75b6&style=flat" alt="codes-elle" /> </p>
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+15053
+Fork on GitHub
+4071
 
-### Hi, I am Ahmad, Co Founder of <a href="https://kheltech.com" target="_blank">Khel</a> and a Javascript enthusiast.
+back to edit
 
-### Being a tech person, I have expertise in the including:
-- HTML5
-- CSS (SASS), Bootstrap, Tailwind
-- Vanilla Javascript
-- Angular (2+)
-- ReactJS/NextJS
-- NodeJS, ExpressJS
-- NestJS
-- MySQL, PostgreSQL, MongoDB
-- AWS
+copy-markdown
 
+download markdown
 
-## You can:
-- 💬 Ask me about **HTML, CSS, and JavaScript, or MEAN & MERN stack**
-- 📫 How to reach me **Send a message through <a href="https://linkedin.com/in/iahmadhabibx" target="_blank">LinkedIn</a>**
-- ⚡  PS I love to write code even in my free time or play games
+download backup
+
+preview
+<h1 align="center">Hi 👋, I'm Ahmad Habib</h1>
+<h3 align="center">Call me Ahmad.js because I love working with Javascript and I have experience working with ReactJS, Angular, NodeJS, ExpressJS, Ionic, React Native</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iahmadhabibx&label=Profile%20views&color=0e75b6&style=flat" alt="iahmadhabibx" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iahmadhabibx" alt="iahmadhabibx" /></a> </p>
+
+- 🔭 I’m currently Co Founding [Kheltech](https://www.kheltech.com)
+
+- 🌱 I’m currently working on **Various Projects**
+
+- 👨‍💻 All of my projects are available at [https://iahmadhabibx.github.io/portfolio](https://iahmadhabibx.github.io/portfolio)
+
+- 💬 Ask me about **Javascript, Angular, ReactJS, NodeJS, ExpressJS**
+
+- 📫 How to reach me **iahmadhabibx@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/iahmadhabibx/](https://www.linkedin.com/in/iahmadhabibx/)
+
+- ⚡ Fun fact **I started as a CSS developer**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iahmadhabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iahmadhabib" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iahmadhabibx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iahmadhabibx" height="30" width="40" /></a>
+<a href="https://instagram.com/iahmadhabibx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iahmadhabibx" height="30" width="40" /></a>
+</p>
 
-<span>
-    <a href="https://linkedin.com/in/linkedin.com/in/iahmadhabibx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mozellegy" height="30" width="40" /></a>
-</span>
-<br/>
-<br/>
-<span>
-    <a href="https://stackoverflow.com/users/12515963/ahmad-habib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18354374" height="30" width="40" /></a>
-</span>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h3 align="left">My Tools:</h3>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/iahmadhabib"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iahmadhabib" /></a></p><br><br>
 
-<span>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-</span>
-<br/>
-<span>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-</span>
-<br/>
-<span>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-</span>
-<br/>
-<span>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-</span>
-<br/>
-<span>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular" width="40" height="40"/> </a> 
-</span>
-<br/>
-<span>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a> 
-</span>
-<br/>
-<span>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="NestJS" width="40" height="40"/> </a> 
-</span>
-<br/>
-<span>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="NestJS" width="40" height="40"/> </a> 
-</span>
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iahmadhabibx&show_icons=true&locale=en&layout=compact" alt="iahmadhabibx" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iahmadhabibx&show_icons=true&locale=en&layout=compact" alt="iahmadhabibx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iahmadhabibx&show_icons=true&locale=en" alt="iahmadhabibx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iahmadhabibx&" alt="iahmadhabibx" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
