@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Eshban!+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Ahmad+Habib!+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 <img src="./assets/borderseperator.gif">
 <h2 align="center"> Javascript, Full-stack, Mobile Application Developer, & Co Founder of <a href="https://kheltech.com" target="_blank">Khel</a>!</h2><br>
 
@@ -31,8 +31,6 @@
 
 
 <p align="center"> 
-<a href="https://twitter.com/EshbanSuleman" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="@EshbanSuleman" height="50" width="50"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/eshban-suleman-624a49113/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/eshban-suleman-624a49113/" height="50" width="50" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_eshban_/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="@_eshban_" height="50" width="50" /></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/eshban.suleman/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="/eshban.suleman" height="50" width="50" /></a>&nbsp;&nbsp;
-</p>
+<a href="https://twitter.com/iahmadhabib" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="@iahmadhabib" height="50" width="50"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/iahmadhabibx/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/iahmadhabibx/" height="50" width="50" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/iahmadhabibx/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="@iahmadhabibx" height="50" width="50" /></a>
