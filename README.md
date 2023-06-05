@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Ahmad+Habib!+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 <img src="./assets/borderseperator.gif">
-<h2 align="center"> Javascript, Full-stack, Mobile Application Developer, & Co Founder of <a href="https://kheltech.com" target="_blank">Khel</a>!</h2><br>
+<h2 align="center"> Javascript, Full-stack, Mobile Application Developer, & Co Founder of <a href="https://kheltech.com" target="_blank">Khel</a>&nbsp;!</h2><br>
 
 * 🌳 I’m currently working on Javascript & <a href="https://khelcourt.pk">Khelcourt</a> <br>
 
