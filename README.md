@@ -4,7 +4,7 @@
 
 * 🌳 I’m currently working on Javascript, Typescript, React, Angular, NodeJS, NestJS, PostgreSQL, MongoDB, MySQL<br>
 
-* 🌊 2023 Goals: Grow my startup <br>
+* 🌊 2023 Goals: Learn new and stay updated with current stack <br>
 
 * ☕ Interest: Sports, Tech, Programming, Socializing <br>
 
