@@ -16,15 +16,12 @@
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="./assets/borderseperator.gif"></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=iahmadhabibx&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
-
-  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=iahmadhabibx&theme=tokyonight&langs_count=6&card_width=500&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+<br>
 
   <img src="https://streak-stats.demolab.com?user=iahmadhabibx&theme=tokyonight&hide_border=true&border_radius=0" height="150" alt="streaks graph"  />
 
-  <img src="https://github-readme-stats-i66v.vercel.app/api?username=iahmadhabibx&theme=tokyonight&show_icons=true&hide_border=true&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
 </div> <br>
 
-[![iahmadhabibx's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=iahmadhabibx&theme=tokyo-night&custom_title=iahmadhabibx's%20GitHub%20Activity%20Graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="./assets/borderseperator.gif">
 <h3 align="center">Connect With Me</h3>
