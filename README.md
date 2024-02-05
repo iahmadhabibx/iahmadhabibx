@@ -27,8 +27,10 @@
 
 </div> <br>
 
-
+<div marginLeft="100px">
+    
 [![Ahmad's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=iahmadhabibx&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/iahmadhabibx/github-readme-stats#gh-dark-mode-only)
+</div>
     
 <img src="./assets/borderseperator.gif">
 <h3 align="center">Connect With Me</h3>
