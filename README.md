@@ -30,11 +30,6 @@
 
 [![Ahmad's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=iahmadhabibx&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/iahmadhabibx/github-readme-stats#gh-dark-mode-only)
     
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-
-
 <img src="./assets/borderseperator.gif">
 <h3 align="center">Connect With Me</h3>
 
