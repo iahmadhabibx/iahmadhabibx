@@ -10,8 +10,9 @@
 
 * :octocat: Hobbies: Sports, Coding, Reading, Socializing <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,tailwind,nodejs)](https://skillicons.dev)
-
+<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,tailwind,nodejs,typescript,mysql,postgresql,mongodb)](https://skillicons.dev)
+</p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=iahmadhabibx&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
