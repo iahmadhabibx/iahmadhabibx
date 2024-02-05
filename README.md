@@ -29,7 +29,7 @@
 
 <div style="margin: 0 auto; max-width: 600px;">
     
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iahmadhabibx&show_icons=true&theme=radical#gh-dark-mode-only" />
+<img style="margin-left: 200px;" src="https://github-readme-stats.vercel.app/api?username=iahmadhabibx&show_icons=true&theme=radical#gh-dark-mode-only" />
 </div>
     
 <img src="./assets/borderseperator.gif">
