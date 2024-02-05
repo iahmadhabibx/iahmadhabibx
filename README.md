@@ -28,7 +28,7 @@
 </div> <br>
 
 
-<p align="center">
+<p style="margin: auto;">
     
 [![Ahmad's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=iahmadhabibx&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/iahmadhabibx/github-readme-stats#gh-dark-mode-only)
     
