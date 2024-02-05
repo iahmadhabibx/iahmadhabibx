@@ -9,6 +9,9 @@
 * ☕ Interest: Sports, Tech, Programming, Socializing <br>
 
 * :octocat: Hobbies: Sports, Coding, Reading, Socializing <br><br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,tailwind,chakra)](https://skillicons.dev)
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=iahmadhabibx&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
