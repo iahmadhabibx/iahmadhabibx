@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=\Hey%2C+I'm+Ahmad+Habib!+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Ahmad!+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 <img src="./assets/borderseperator.gif">
 <h2 align="center"> Javascript, Full-stack, Web & Mobile Application Developer&nbsp;!</h2><br>
 
@@ -11,6 +11,7 @@
 * :octocat: Hobbies: Sports, Coding, Reading, Socializing <br><br>
 
 <p align="center">My Skills</p>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,tailwind,nodejs,typescript,mysql,postgresql,mongodb)](https://skillicons.dev)
 
 <p align="center">
