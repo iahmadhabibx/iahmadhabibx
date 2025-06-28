@@ -6,7 +6,7 @@
 ### 🔭 I’m currently focusing on *Web & Mobile applications*
 ### 👯 I’m looking to collaborate on projects of any sort.
 
-## 🌐 Get in Touch
+## 🌐 Get to know me & my work
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iahmadhabibx) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12515963/ahmad-habib)
 
 # 💻Tech Stack
